@@ -1,0 +1,8 @@
+/* Endurance Software LLC */
+
+
+class new_api {
+
+ func    do_it(int i) { ... }
+
+}
